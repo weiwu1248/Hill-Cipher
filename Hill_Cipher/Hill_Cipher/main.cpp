@@ -1,4 +1,3 @@
-// Name: Wei Wu  CSC/MTH 228  Lab2   Date:5/4/16
 
 /*Notes:
 1) Any size of message will work.
