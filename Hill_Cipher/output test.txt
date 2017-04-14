@@ -1,0 +1,26 @@
+
+Original Message: heloworld
+
+Key:
+17 21 2
+17 18 2
+5 21 19
+
+Message after encryption: rfqamsgzj
+Message after encryption Number form: 17 5 16 0 12 18 6 25 9
+
+
+Inverse of key:
+Key:
+4 15 24
+9 17 0
+15 6 17
+
+Message after decryption: heloworld
+Message after decryption Number form: 7 4 11 14 22 14 17 11 3
+
+Press any key to continue . . .
+
+
+
+

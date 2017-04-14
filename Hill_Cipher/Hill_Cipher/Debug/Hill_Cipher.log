@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\wei.wu\desktop\hill_cipher ver3\hill_cipher\main.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+c:\users\wei.wu\desktop\hill_cipher ver3\hill_cipher\main.cpp(52): warning C4018: '<' : signed/unsigned mismatch
+  Hill_Cipher.vcxproj -> C:\Users\wei.wu\Desktop\Hill_Cipher ver3\Debug\Hill_Cipher.exe
